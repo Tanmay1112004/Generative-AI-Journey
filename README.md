@@ -1,51 +1,63 @@
-# 🚀 Generative AI Journey  
+# 🚀 The Generative AI Odyssey
 
-Welcome to my **Generative AI Learning Repository**!  
-This repo is my daily logbook where I document everything I learn about **Generative AI** — from theory and research notes to projects and experiments.  
-
----
-
-## 📌 What's Inside?
-- 📖 **Day-wise Notes** – Key concepts, explanations, and summaries  
-- 💻 **Hands-on Projects** – Implementations of models and experiments  
-- 🧠 **Research Insights** – Learnings from papers, blogs, and courses  
-- ⚡ **Challenges & Solutions** – Problems faced and how I solved them  
+Welcome to my **Generative AI Logbook**. This repository serves as a living archive of my transition from a consumer of AI to a creator. Here, I document theoretical foundations, research breakthroughs, and hands-on implementations.
 
 ---
 
-## 📅 Progress Log
-I’ll keep updating this section with my journey:
+## 🏛️ Learning Architecture
 
-- **Day 1** → Setting up the environment & basics of GenAI  
-- **Day 2** → Building first project without API key  
-- **Day 3** → Notes on text-to-image models  
-- *(…more coming daily 🚀)*  
+My approach is split into three core pillars:
+
+* **Theory & Research:** Summaries of landmark papers (from Attention is All You Need to Diffusion Models).
+* **Engineering:** Fine-tuning LLMs, RAG (Retrieval-Augmented Generation) pipelines, and prompt engineering.
+* **Deployment:** Turning models into functional APIs and local applications.
+
+---
+
+## 📅 The 100-Day Progress Tracker
+
+I am documenting my progress daily to ensure consistency and accountability.
+
+| Phase | Focus | Status |
+| --- | --- | --- |
+| **Week 1** | Environment Setup & Foundation (Transformers, APIs) | 🟢 In Progress |
+| **Week 2** | Image Synthesis (GANs vs. Diffusion) | ⚪ Upcoming |
+| **Week 3** | LLMs & Prompt Engineering (RAG, Vector DBs) | ⚪ Upcoming |
+
+### Recent Milestones:
+
+* **Day 1:** Environment configuration and exploring the GenAI landscape.
+* **Day 2:** Building a localized AI project without relying on paid API keys.
+* **Day 3:** Deep dive into Text-to-Image architectures and latent spaces.
 
 ---
 
 ## 🛠 Tech Stack
-- Python 🐍  
-- PyTorch / TensorFlow 🔥  
-- Hugging Face 🤗  
-- OpenAI, Google Generative AI APIs  
-- Other cool AI tools  
+
+* **Languages:**
+* **Frameworks:**
+* **Ecosystem:** Hugging Face Transformers, LangChain, OpenAI SDK, Google Gemini API.
+* **Vector DBs:** Pinecone, ChromaDB (Planned).
 
 ---
 
-## 🎯 Goals
-- Build multiple **Generative AI projects**  
-- Document **every step of my learning**  
-- Share knowledge & resources with the community  
-- Become proficient in **LLMs, Diffusion, GANs, and beyond**  
+## 🎯 Strategic Goals
+
+* [ ] Build a **Custom RAG Chatbot** using private data.
+* [ ] Fine-tune a **Llama-3** or **Mistral** model for specific tasks.
+* [ ] Deploy a **Stable Diffusion** interface for creative assets.
+* [ ] Contribute to open-source GenAI documentation.
 
 ---
 
-## 🤝 Connect With Me
-If you’re also on this journey, let’s connect and grow together!  
+## 🤝 Let's Collaborate
 
-🔗 [LinkedIn](https://linkedin.com/in/tanmay-kshirsagar)  
-🐙 [GitHub](https://github.com/Tanmay1112004)  
+The best way to learn AI is to build in the open. If you are working on LLMs, Diffusion models, or AI agents, let's chat!
+
+* **LinkedIn:** [Tanmay Kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
+* **GitHub:** [@Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
 
-⭐ If you find this repo useful, don’t forget to **star** it and follow my journey!
+> "The best way to predict the future is to generate it." — *A GenAI Enthusiast*
+
