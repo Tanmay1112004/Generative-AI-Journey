@@ -55,7 +55,7 @@ I am documenting my progress daily to ensure consistency and accountability.
 The best way to learn AI is to build in the open. If you are working on LLMs, Diffusion models, or AI agents, let's chat!
 
 * **LinkedIn:** [Tanmay Kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
-* **GitHub:** [@Tanmay1112004](https://github.com/Tanmay1112004)
+* **GitHub:** [@Tanmay1112004](https://github.com/Tanmay1112004
 
 ---
 
