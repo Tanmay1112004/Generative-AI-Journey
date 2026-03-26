@@ -59,5 +59,5 @@ The best way to learn AI is to build in the open. If you are working on LLMs, Di
 
 ---
 
-> "The best way to predict the future is to generate it." — A GenAI Enthusiast
+> "The best way to predict the future is to generate it." — *A GenAI Enthusiast*
 
