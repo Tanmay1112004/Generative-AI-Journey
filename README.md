@@ -183,13 +183,3 @@ If you find this project valuable:
 > “The best way to predict the future is to generate it.”
 
 ---
-
-⭐ If you want, I can also provide:
-
-🔥 A **viral LinkedIn post for your 100-Day GenAI Challenge**
-🔥 GitHub Profile README (Top-1% style)
-🔥 ATS-optimized resume bullets for AI roles
-🔥 Portfolio website content
-🔥 A daily roadmap to become an AI Engineer
-
-Just say what you need 😎🚀
